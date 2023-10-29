@@ -1,0 +1,28 @@
+:where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-item:hover::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item:hover::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu:hover::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu:hover::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-item-active::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item-active::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-active::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-active::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-item-open::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item-open::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-open::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-open::after {
+    border-bottom-width: 2px;
+    border-bottom-color: #004461;
+}
+
+:where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item-selected::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-selected::after, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-selected::after {
+    border-bottom-width: 2px;
+    border-bottom-color: #004461;
+}
+
+:where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-selected {
+    color: #004461;
+    background-color: transparent;
+}
+
+:where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-selected {
+    color: #004461;
+    background-color: transparent;
+}
+
+:where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light .ant-menu-item-selected, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu .ant-menu-item-selected {
+    color: #004461;
+}
+
+:where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light .ant-menu-item:not(.ant-menu-item-selected):not(.ant-menu-submenu-selected):hover, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu .ant-menu-item:not(.ant-menu-item-selected):not(.ant-menu-submenu-selected):hover, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light .ant-menu-item:not(.ant-menu-item-selected):not(.ant-menu-submenu-selected) >.ant-menu-submenu-title:hover, :where(.css-dev-only-do-not-override-3mqfnx).ant-menu-light>.ant-menu .ant-menu-item:not(.ant-menu-item-selected):not(.ant-menu-submenu-selected) >.ant-menu-submenu-title:hover {
+    color: #004461;
+}
+

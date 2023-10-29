@@ -1,0 +1,107 @@
+.ant-pagination {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #324C5B;
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    list-style: none;
+}
+
+
+.ant-pagination .ant-pagination-total-text {
+    display: inline-flex;
+    justify-content: space-between;
+    height: 32px;
+    margin-inline-end: 53px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+/* Item pagination */
+.ant-pagination .ant-pagination-item a {
+    color: #C31E0A;
+}
+
+/* Item Active color */
+.ant-pagination .ant-pagination-item-active a {
+    color: #FFFFFF;
+}
+
+.ant-pagination .ant-pagination-item a:hover {
+    color:#FFFFFF;
+    background: #004461;
+    border-radius: 6px;
+}
+
+.ant-pagination .ant-pagination-item {
+    color: #004461;
+}
+
+/* Active Item bg color  */
+.ant-pagination .ant-pagination-item-active {
+    font-weight: 600;
+    background-color: #004461;
+    border-color: #FFFFFF;
+}
+
+
+.ant-pagination .ant-pagination-prev, .ant-pagination .ant-pagination-next, .ant-pagination .ant-pagination-jump-next {
+    display: inline-flex;
+    justify-content: space-between;
+    min-width: 32px;
+    height: 32px;
+    color: #333333;
+    /* font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; */
+    line-height: 32px;
+    text-align: center;
+    vertical-align: middle;
+    list-style: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+
+
+/* Next & Previous Color  */
+.ant-pagination .ant-pagination-prev, .ant-pagination .ant-pagination-next,.ant-pagination .ant-pagination-jump-next {
+    color: #333333;
+}
+/* Next & Previous Color Active */
+ a:active {
+    color: #C31E0A;
+}
+/* Next & Previous Color Active */
+a:hover {
+    color: #C31E0A;
+}
+
+a {
+    /* color: inherit; */
+    color: #C31E0A;
+    text-decoration: inherit;
+}
+
+.ant-pagination .ant-pagination-total-text {
+    display: inline-flex;
+    justify-content: space-between;
+    height: 32px;
+    margin-inline-end: 172px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+
+:where(.css-dev-only-do-not-override-xu9wm8).ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    position: relative;
+    background-color: transparent;
+    border: none;
+    color: #004461;
+    font-weight: 800;
+    transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.ant-select-focused:where(.css-dev-only-do-not-override-xu9wm8).ant-select:not(.ant-select-disabled):not(.ant-select-customize-input):not(.ant-pagination-size-changer) .ant-select-selector{
+    border: none;
+    box-shadow: none;
+}
